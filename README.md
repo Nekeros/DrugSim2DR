@@ -1,5 +1,7 @@
 # DrugSim2DR: systematic prediction of drug functional similarities in the context of specific disease for drug repurposing
 
+> The `DrugSim2DR` is published in GIGAScience. Please cite the following article when using `DrugSim2DR`: [https://doi.org/10.1093/bioinformatics/btac611].
+
 ## <font face="微软雅黑"> Introduce </font>
 
 This vignette illustrates how to easily use the **DrugSim2DR package**. Here, we present a network-based computational approach, **DrugSim2DR**, to perform drug repurposing in specific disease states by integrating drug information, rna-seq data of disease, and GO function data. There are also some functions used to visualize the results
